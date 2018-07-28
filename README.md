@@ -6,6 +6,7 @@ Create, read, update, and delete a task
 
 * Node.js
 * MongoDB
+* Mongoose
 * Postman
 
 ## Authors
